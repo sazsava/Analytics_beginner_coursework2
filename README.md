@@ -2,7 +2,7 @@
 *Вторая курсовая работа по начальной аналитике*
 
 **SQL и AB-тестирование**
-<img src="https://img.freepik.com/premium-vector/corporate-website-service-careers-registration-page-menu-bar-design-corporate-website_566886-4037.jpg?w=1380" width="800" height="200" />
+<img src="https://img.freepik.com/premium-vector/corporate-website-service-careers-registration-page-menu-bar-design-corporate-website_566886-4037.jpg?w=1380" width="500" height="200" />
 
 ## 1.1. Задача
 ***
