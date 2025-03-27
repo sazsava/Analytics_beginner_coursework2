@@ -2,7 +2,8 @@
 *Вторая курсовая работа по начальной аналитике*
 
 **SQL и AB-тестирование**
-<img src="https://img.freepik.com/free-vector/job-search-recruitment-composition-with-hands-holding-tablet-with-candidates-rating-characters-successful-applicants-vector-illustration_1284-69589.jpg?t=st=1743087363~exp=1743090963~hmac=279d02287f568d531b641b1b10fa6837815d221214f552739fafafd263765ada&w=1380" width="500" height="200" />
+
+<img src="https://img.freepik.com/free-vector/job-search-recruitment-composition-with-hands-holding-tablet-with-candidates-rating-characters-successful-applicants-vector-illustration_1284-69589.jpg?t=st=1743087363~exp=1743090963~hmac=279d02287f568d531b641b1b10fa6837815d221214f552739fafafd263765ada&w=1380" width="626" height="209" />
 
 ## 1.1. Задача
 ***
